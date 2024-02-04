@@ -1,0 +1,50 @@
+[
+    {
+        "name":"iphone",
+        "price":154,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"iphone10",
+        "price":1154,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"watch",
+        "price":204,
+        "company":"apple"
+    },
+    {
+        "name":"iphone15pro",
+        "price":11541,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"iphone15plus",
+        "price":11536,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"redmi8adual",
+        "price":1634,
+        "featured":true,
+        "company":"Redmi"
+    },
+    {
+        "name":"Poco m3",
+        "price":954,
+        "featured":true,
+        "company":"Poco"
+    },
+    {
+        "name":"A15",
+        "price":9954,
+        "featured":true,
+        "company":"Samsung"
+    }
+
+]
