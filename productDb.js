@@ -6,6 +6,7 @@ const Start=async()=>{
     try {
     await Connectdb(process.env.URL)        
     await User.create(ProductJson)
+    await User.deleteMany();
         console.log("data")
     } catch (error) {
         console.log(error)
